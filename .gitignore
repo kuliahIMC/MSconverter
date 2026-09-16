@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+data/license.json
+data/settings.json
+
+*.spec
+
+Marhaban-Converter-v*-Windows-x64.zip
