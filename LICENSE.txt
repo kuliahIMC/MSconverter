@@ -1,0 +1,160 @@
+MARHABAN CONVERTER
+PROPRIETARY SOFTWARE LICENSE
+AND COPYRIGHT NOTICE
+
+Copyright (c) 2026 Marhaban Studio
+All rights reserved.
+
+Developer / Studio:
+Marhaban Studio
+
+Software:
+Marhaban Converter
+
+------------------------------------------------------------
+1. COPYRIGHT
+------------------------------------------------------------
+
+Marhaban Converter, including its software code, application
+design, user interface, graphics, assets, documentation,
+branding, logos, and other original materials, is protected
+by applicable copyright and intellectual property laws.
+
+All rights, title, and interest in the original components of
+Marhaban Converter are owned by Marhaban Studio unless
+otherwise stated.
+
+------------------------------------------------------------
+2. LICENSE GRANT
+------------------------------------------------------------
+
+A valid license grants the customer a limited, personal,
+non-exclusive, non-transferable, and revocable right to use
+Marhaban Converter according to the terms of the purchased
+license.
+
+The license does not transfer ownership of the software to
+the customer.
+
+The software remains the property of Marhaban Studio.
+
+------------------------------------------------------------
+3. LICENSE ACTIVATION
+------------------------------------------------------------
+
+Marhaban Converter requires a valid software license to be
+activated before the application can be used.
+
+The software may communicate with the Marhaban Studio license
+server to verify the validity of a license.
+
+A license may be associated with a device according to the
+license system implemented by Marhaban Studio.
+
+License status may include active, expired, revoked, or other
+statuses defined by the licensing system.
+
+------------------------------------------------------------
+4. PROHIBITED USE
+------------------------------------------------------------
+
+Without written permission from Marhaban Studio, you may not:
+
+- Copy or redistribute the software as your own.
+- Sell, rent, lease, or sublicense the software.
+- Share or publish license keys.
+- Circumvent, disable, or bypass the license system.
+- Modify the software to remove license verification.
+- Reverse engineer the software for the purpose of defeating
+  licensing or other protection mechanisms.
+- Remove copyright notices, trademarks, or ownership notices.
+- Repackage and distribute the software under another name.
+- Claim ownership of Marhaban Converter or its original
+  components.
+
+------------------------------------------------------------
+5. LICENSE KEYS
+------------------------------------------------------------
+
+License keys are issued by Marhaban Studio or an authorized
+distribution channel.
+
+A license key is intended only for the license holder and
+must not be publicly distributed.
+
+Marhaban Studio may revoke a license if the license is used
+in violation of the applicable license terms.
+
+------------------------------------------------------------
+6. UPDATES
+------------------------------------------------------------
+
+Marhaban Studio may release updates, improvements, bug fixes,
+security updates, or new versions of Marhaban Converter.
+
+Updates may be subject to separate licensing terms or
+requirements.
+
+------------------------------------------------------------
+7. THIRD-PARTY SOFTWARE
+------------------------------------------------------------
+
+Marhaban Converter may use third-party software, libraries,
+codecs, tools, or components.
+
+Such third-party components remain subject to their respective
+licenses and copyright notices.
+
+Where applicable, their license terms take precedence over
+this license for those specific components.
+
+------------------------------------------------------------
+8. NO OWNERSHIP TRANSFER
+------------------------------------------------------------
+
+Purchasing or receiving a license for Marhaban Converter does
+not transfer ownership, copyright, source code, trademarks,
+or other intellectual property rights to the customer.
+
+The customer receives only the rights explicitly granted by
+the applicable software license.
+
+------------------------------------------------------------
+9. DISCLAIMER
+------------------------------------------------------------
+
+Marhaban Converter is provided subject to the applicable
+software license terms.
+
+To the extent permitted by applicable law, Marhaban Studio
+is not responsible for indirect, incidental, special, or
+consequential damages arising from the use or inability to use
+the software.
+
+------------------------------------------------------------
+10. RESERVATION OF RIGHTS
+------------------------------------------------------------
+
+All rights not expressly granted in the applicable license
+are reserved by Marhaban Studio.
+
+------------------------------------------------------------
+11. CONTACT
+------------------------------------------------------------
+
+Marhaban Studio
+
+Official website:
+https://marhabanstudio.my.id
+
+License service:
+https://license.marhabanstudio.my.id
+
+------------------------------------------------------------
+
+Copyright (c) 2026 Marhaban Studio
+All rights reserved.
+
+Marhaban Converter is proprietary software.
+Unauthorized copying, redistribution, modification, or
+license circumvention is prohibited.
